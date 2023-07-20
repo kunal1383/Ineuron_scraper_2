@@ -1,4 +1,3 @@
-Sure! Here's the updated `README.md` file for the "Ineuron Scraper" project:
 
 # Ineuron Scraper
 
