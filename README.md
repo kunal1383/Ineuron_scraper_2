@@ -67,7 +67,7 @@ python application.py
 
 3. The script will fetch course details, create a PDF, and store the data in both the SQLite database and MongoDB.
 
-4. You can find the generated PDF in the `output` directory.
+4. You can find the generated PDF in the `courses_pdf` directory.
 
 
 
