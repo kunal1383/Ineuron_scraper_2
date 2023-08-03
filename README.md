@@ -31,7 +31,7 @@ To run the Ineuron Scraper, you need the following:
 - Python 3.8
 - Required Python packages (listed in `requirements.txt`)
 
-Please make sure you have MongoDB Compass installed and have a MongoDB account with a username and password. You need to provide the MongoDB username and password in the `utils.py` file under the `MongoDB` class.
+**Important Note:** Please make sure you have MongoDB Atlas account with a username and password. You need to provide the MongoDB username and password in the `utils.py` file under the `MongoDB` class.
 
 ## Installation
 
@@ -69,9 +69,7 @@ python application.py
 
 4. You can find the generated PDF in the `output` directory.
 
-## Contributing
 
-Contributions to the Ineuron Scraper are welcome! If you find any issues or have suggestions for improvement, feel free to open an issue or create a pull request.
 
 ## License
 
@@ -79,9 +77,7 @@ The Ineuron Scraper is open-source and available under the [MIT License](LICENSE
 
 ---
 
-Please make sure that the project repository is actually named "Ineuron-Scraper" on GitHub under your "kunalb1383" account. If it's different, update the URL accordingly in the installation step. Also, ensure that the main script is named "application.py" as mentioned in your message.
 
-Remember to update any other specific details related to your project in the README.md file.
 
 
 
