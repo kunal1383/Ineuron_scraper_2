@@ -31,7 +31,7 @@ To run the Ineuron Scraper, you need the following:
 - Python 3.8
 - Required Python packages (listed in `requirements.txt`)
 
-**Important Note:** Please make sure you have MongoDB Atlas account with a username and password. You need to provide the MongoDB username and password in the `utils.py` file under the `MongoDB` class.
+**Important Note:** Please make sure you have MongoDB Atlas account with a username and password. You need to provide the MongoDB username and password in the `utils.py`.
 
 ## Installation
 
