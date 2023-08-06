@@ -38,7 +38,7 @@ To run the Ineuron Scraper, you need the following:
 1. Clone the project repository:
 
 ```bash
-git clone https://github.com/kunalb1383/Ineuron-Scraper.git
+git clone https://github.com/kunal1383/Ineuron-Scraper.git
 ```
 
 2. Change to the project directory:
